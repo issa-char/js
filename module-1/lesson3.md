@@ -121,7 +121,7 @@ for (var i = 0; i < 10; i++) {
   console.log(i);
 }
 // Output:
-
+```
 ### While
 
 The while loop is another type of loop in JavaScript that executes a block of code as long as a condition is true. It has the following syntax:
